@@ -4,7 +4,7 @@ Sou estudante da Universidade Federal do Rio Grande do Norte - UFRN, estou cursa
 
 <div align="center">
   <a href="https://github.com/dcoelhosantos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dcoelhosantos&layout=compact&langs_count=10&hide_progress=true&theme=radical"/>  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dcoelhosantos&layout=compact&langs_count=8&hide_progress=true&theme=radical"/>  
 </div>
 
 ##
