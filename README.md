@@ -1,6 +1,6 @@
 ## Olá! Eu sou Daniel Coelho 👋
 Sou estudante da Universidade Federal do Rio Grande do Norte - UFRN, estou cursando Bacharelado em Tecnologia da Informação. Me interessei pela área desde o ensino médio, que concluí no IFRN com um curso técnico integrado em informática.
-- 🌱 Atualmente estudando Vue.js
+- 🌱 Atualmente estudando JavaScript
 
 <div align="center">
   <a href="https://github.com/dcoelhosantos">
