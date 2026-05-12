@@ -9,7 +9,7 @@
 ## 💻 Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,c,cpp,java,rust,haskell,html,css,js,git,linux" />
+  <img src="https://skillicons.dev/icons?i=react,ts,html,css,js,python,django,c,cpp,java,rust,haskell,git,linux" />
 </p>
 
 ---
