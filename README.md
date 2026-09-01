@@ -14,12 +14,6 @@
 
 ---
 
-## 🚀 My Main Projects
-
-> 🚧 *This section is under construction*
-
----
-
 ## 🌐 Connect with me
 
 <p align="center">
